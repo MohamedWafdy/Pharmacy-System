@@ -1,0 +1,123 @@
+{
+  "medicines": [
+    {
+      "id": 1,
+      "name": "medicine1",
+      "price": 15,
+      "manufacturer": "aaa",
+      "type": "cap",
+      "expiredate": "2023-12-02",
+      "quantity": 20
+    },
+
+    {
+      "id": 2,
+      "name": "medicine2",
+      "price": 16,
+      "manufacturer": "aaa",
+      "type": "cap",
+      "expiredate": "2022-02-12",
+      "quantity": 25
+    },
+
+    {
+      "id": 3,
+      "name": "medicine3",
+      "price": 13,
+      "manufacturer": "aaa",
+      "type": "cap",
+      "expiredate": "2020-12-12",
+      "quantity": 80
+    },
+
+    {
+      "id": 4,
+      "name": "medicine4",
+      "price": 17,
+      "manufacturer": "aaa",
+      "type": "cap",
+      "expiredate": "2023-01-01",
+      "quantity": 10
+    },
+
+    {
+      "id": 5,
+      "name": "medicine5",
+      "price": 18,
+      "manufacturer": "aaa",
+      "type": "cap",
+      "expiredate": "2023-10-05",
+      "quantity": 50
+    },
+
+    {
+      "id": 6,
+      "name": "medicine6",
+      "price": 12,
+      "manufacturer": "aaa",
+      "type": "cap",
+      "expiredate": "2021-05-10",
+      "quantity": 25
+    },
+
+    {
+      "id": 7,
+      "name": "medicine7",
+      "price": 5,
+      "manufacturer": "aaa",
+      "type": "cap",
+      "expiredate": "2025-01-20",
+      "quantity": 75
+    },
+
+    {
+      "id": 8,
+      "name": "medicine8",
+      "price": 19,
+      "manufacturer": "aaa",
+      "type": "cap",
+      "expiredate": "2022-12-02",
+      "quantity": 2
+    },
+
+    {
+      "id": 9,
+      "name": "medicine9",
+      "price": 7.25,
+      "manufacturer": "aaa",
+      "type": "cap",
+      "expiredate": "2022-12-20",
+      "quantity": 60
+    },
+
+    {
+      "id": 10,
+      "name": "medicine10",
+      "price": 16.5,
+      "manufacturer": "aaa",
+      "type": "cap",
+      "expiredate": "2024-03-25",
+      "quantity": 70
+    },
+
+    {
+      "id": 11,
+      "name": "medicine11",
+      "price": 9.5,
+      "manufacturer": "aaa",
+      "type": "cap",
+      "expiredate": "2024-05-25",
+      "quantity": 55
+    },
+
+    {
+      "id": 12,
+      "name": "medicine12",
+      "price": 20,
+      "manufacturer": "aaa",
+      "type": "cap",
+      "expiredate": "2020-11-05",
+      "quantity": 120
+    }
+  ]
+}
